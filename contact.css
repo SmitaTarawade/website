@@ -1,0 +1,90 @@
+*
+{
+font-family:Verdana;
+}
+h1
+{
+color:#E6B8B8;
+text-decoration:underline;
+text-shadow:1px 1px #888888;
+text-align:center;
+}
+span
+{
+
+}
+
+#generalForm
+{
+float:left;
+margin-left:175px;
+height:500px;
+width:370px;
+background:;
+}
+
+.inputs,.btns,.txts
+{
+height:50px;
+width:400px;
+border:1px solid #888888;
+border-radius:5px;
+}
+table
+{
+margin:0 auto;
+}
+td
+{padding:5px;}
+th
+{
+text-align:left;
+color:#CCA3A3;
+}
+
+.btns
+{
+background:#888888;
+color:white;
+font-size:18px;
+}
+.btns:hover
+{
+background:#ffcccc;
+}
+.txts
+{
+height:240px;
+width:400px;
+}
+
+#txtName
+{
+background: white url(carousel/images/icons/Contact.png) left no-repeat;
+}
+#txtEmail
+{
+background: white url(carousel/images/icons/mail.png) left no-repeat;
+}
+#txtWebsite
+{
+background: white url(carousel/images/icons/C.png) left no-repeat;
+}
+#txtProject
+{
+background: white url(carousel/images/icons/Pencil.png) left no-repeat;
+background-position:top left;
+}
+#txtName,#txtEmail,#txtWebsite,#txtProject
+{
+padding-left: 28px;
+}
+a
+{
+color:#CCA3A3;
+text-decoration:none;
+}
+a:hover
+{
+color:#888888;
+}

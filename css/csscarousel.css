@@ -1,0 +1,30 @@
+body
+{
+margin:0;
+margin-top:0px;
+}
+
+#carousel
+{
+width:8000px;
+}
+
+#carousel ul
+{
+list-style:none;
+width:8000px;
+position:relative;
+}
+
+#carousel li
+{
+display:inline;
+float:left;
+}
+span
+{
+color:white;
+font-family:Verdana;
+font-size:15px;
+
+}

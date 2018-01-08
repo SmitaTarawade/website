@@ -1,0 +1,52 @@
+*
+{
+font-family:Verdana;
+}
+h1
+{
+color:#E6B8B8;
+text-shadow:1px 1px #888888;
+margin:5px 0px 0px 5px;
+}
+.inputs,.btns,.txts
+{
+height:30px;
+width:250px;
+border:1px solid #888888;
+border-radius:5px;
+}
+table
+{
+}
+td
+{padding:4px;}
+.btns
+{
+background:#888888;
+color:white;
+font-size:18px;
+}
+.btns:hover
+{
+background:#ffcccc;
+}
+#txtEmail
+{
+background: white url(../images/icons/mail.png) left no-repeat;
+padding-left:27px;
+}
+#txtPassword
+{
+background: white url(../images/icons/Lock.png) left no-repeat;
+padding-left:27px;
+}
+a
+{
+color:#CCA3A3;
+text-decoration:none;
+font-size:15px;
+}
+a:hover
+{
+color:#888888;
+}

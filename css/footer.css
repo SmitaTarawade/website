@@ -1,0 +1,105 @@
+*
+{
+font-family:Verdana;
+color:#888888;
+}
+
+body
+{
+margin:0;
+padding:0;
+}
+#mainFoot
+{
+margin:0;
+padding:0;
+background:#FFCCCC;
+height:150px;
+}
+
+#links
+{
+margin-top:-10px;
+margin-left:104px;
+}
+
+#links li
+{
+list-style:none;
+display:inline;
+}
+
+#links li a
+{
+text-decoration:none;
+font-size:14px;
+color:#888888;
+}
+#links li a:hover
+{
+text-decoration:underline;
+}
+#heading
+{
+width:550px;
+height:90px;
+margin:50px 0px 0px 10px;
+padding:0;
+position:absolute;
+float:left;
+
+}
+#name
+{
+font-size:45px;
+text-shadow:1px 1px #888888;
+color:#CCA3A3;
+
+}
+#copy
+{
+margin-left:150px;
+font-size:12px;
+color:#888888;
+margin-top:-10px;
+}
+#search
+{
+margin-left:543px;
+
+height:90px;
+width:350px;
+padding:0;
+}
+#txtSearch
+{
+margin:65px 0px 0px 21px;
+width:180px;
+height:30px;
+border-radius:5px;
+background: white url(../images/icons/Search.png) left no-repeat;
+padding-left: 27px;
+border:1px solid #888888;
+}
+
+#btnSearch:hover
+{
+box-shadow:3px 3px 1px #888888;
+color:white;
+}
+#icon
+{
+float:left;
+padding:0;
+margin-top:9px;
+width:50px;
+}
+span a
+{
+text-decoration:none;
+color:#CCA3A3;
+}
+a img
+{
+margin:5px 0px 0px 260px;
+}
